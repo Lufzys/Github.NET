@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>GithubNET</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <title>Github.NET</title>
-    <authors>Lufzys (Kroxy13) -|- MrCylops</authors>
-    <owners>Lufzys (Kroxy13) -|- MrCylops</owners>
+    <authors>Lufzys, MrCylops</authors>
+    <owners>Lufzys, MrCylops</owners>
     <licenseUrl>https://github.com/Lufzys/Github.NET/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/Lufzys/Github.NET</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/Lufzys/Github.NET/master/GithubNET.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>https://github.com/Lufzys/Github.NET/blob/master/README.md</description>
+    <description>Lightweight Github API Wrapper on .NET</description>
     <releaseNotes>Code cleaning and major bug fixes.</releaseNotes>
     <copyright>Copyrighted by Lufzys | MrCylops / 2019 - 2020</copyright>
     <tags>Github API Wrapper GithubAPI Json</tags>

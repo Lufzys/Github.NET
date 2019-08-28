@@ -5,6 +5,13 @@ using Newtonsoft.Json;
 using System.Windows.Forms;
 using System.Collections.Generic;
 
+//GITHUB API WRAPPER BY LUFZYS & MRCYLOPS
+//PLEASE GIVE CREDITS WHEN YOU ARE USING THIS API.
+//https://github.com/Lufzys
+//https://github.com/MrCylops
+//Github.NET
+//Last Update -> 28.08.2019
+
 namespace GithubNET
 {
     /// <summary>
