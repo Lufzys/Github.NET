@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GithubNET</id>
+    <version>1.1.0</version>
+    <title>Github.NET</title>
+    <authors>Lufzys (Kroxy13) -|- MrCylops</authors>
+    <owners>Lufzys (Kroxy13) -|- MrCylops</owners>
+    <licenseUrl>https://github.com/Lufzys/Github.NET/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/Lufzys/Github.NET</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Lufzys/Github.NET/master/GithubNET.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>https://github.com/Lufzys/Github.NET/blob/master/README.md</description>
+    <releaseNotes>Code cleaning and major bug fixes.</releaseNotes>
+    <copyright>Copyrighted by Lufzys | MrCylops / 2019 - 2020</copyright>
+    <tags>Github API Wrapper GithubAPI Json</tags>
+  <dependencies>
+    <group targetFramework="portable-net45+win+wpa81+wp80">
+      <dependency id="Newtonsoft.Json" version="12.0.2"/>
+    </group>
+  </dependencies>
+  </metadata>
+  <files>
+    <file src="GithubNET.cs" target="content\GithubNETAPI\GithubNET.cs" />
+  </files>
+</package>
