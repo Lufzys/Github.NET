@@ -25,5 +25,5 @@ Console.WriteLine("User ID -> " + UserID.ToString());
 ```
 
 
-## Credits; [Lufzys](https://github.com/Lufzys "Lufzys")   & [MrCylops](https://github.com/MrCylops"MrCylops")
-[![Lufzys](https://avatars0.githubusercontent.com/u/53129220?s=70&v=4 "Lufzys")](https://github.com/Lufzys "Lufzys")  [![MrCylops](https://avatars3.githubusercontent.com/u/21990827?s=70&v=4 "MrCylops")](https://github.com/MrCylops "MrCylops")
+## Credits; [Lufzys](https://github.com/Lufzys "Lufzys")   & [Lyceion](https://github.com/Lyceion"Lyceion")
+[![Lufzys](https://avatars0.githubusercontent.com/u/53129220?s=70&v=4 "Lufzys")](https://github.com/Lufzys "Lufzys")  [![Lyceion](https://avatars3.githubusercontent.com/u/21990827?s=70&v=4 "Lyceion")](https://github.com/Lyceion "Lyceion")
