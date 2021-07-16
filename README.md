@@ -21,7 +21,7 @@ GithubNET.Users.SelectUser("MrCylops");
 var UserID = GithubNET.Users.Id;
 
 //Print User ID
-Console.WrirteLine("User ID -> " + UserID.ToString());
+Console.WriteLine("User ID -> " + UserID.ToString());
 ```
 
 
